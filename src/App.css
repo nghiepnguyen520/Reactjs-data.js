@@ -1,0 +1,42 @@
+.Search{
+  width: 25%;
+  margin-left: 77%;
+  margin-top: 7%;
+}
+.c1{
+  width: 70% !important;
+}
+.ui.grid>[class*="two column"].row>.column{
+  width: 70% !important;
+}
+.Acction{
+  width: 20%;
+}
+.allcolumn{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.column1{
+  width: 70%;
+}
+.column2{
+  width: 25%;
+  background-color: #eceae6;
+  margin-top: 5%;
+}
+.ui.button{
+  margin-top: 2%;
+}
+.ui.label:first-child {
+  font-size: 18px;
+  margin-left: 71px;
+  width: 58%;
+  background-color: darkgrey;
+}
+.stt{
+  width: 5%;
+}
+.lablel2{
+  width: 10%;
+}
